@@ -1,0 +1,31 @@
+{
+  "name": "next-boilerplate-auth0-mongodb",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "@ajzeller",
+  "dependencies": {
+    "@auth0/nextjs-auth0": "^0.10.0",
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "moment": "^2.24.0",
+    "mongodb": "^3.5.3",
+    "next": "9.2.1",
+    "next-connect": "^0.6.0",
+    "node-sass": "^4.13.1",
+    "react": "16.12.0",
+    "react-big-calendar": "^0.24.1",
+    "react-calendar": "^3.0.1",
+    "react-dom": "16.12.0",
+    "react-icons": "^3.9.0",
+    "react-toggle": "^4.1.1",
+    "styled-components": "^5.0.1",
+    "use-dark-mode": "^2.3.1"
+  }
+}
